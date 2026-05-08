@@ -2,6 +2,6 @@
 ## 检测对象
 **奶牛的行为：'drinking', 'eating', 'resting', 'standing', 'walking'**
 ## 模型训练32轮后的结果
--mAP50:0.904
--mAP50-95:0.785
+- mAP50:0.904
+- mAP50-95:0.785
 

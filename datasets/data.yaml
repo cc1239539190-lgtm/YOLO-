@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['drinking', 'eating', 'resting', 'standing', 'walking']
+
+roboflow:
+  workspace: dairy-cow-ll09y
+  project: cow-bfkof
+  version: 5
+  license: CC BY 4.0
+  url: https://app.roboflow.com/dairy-cow-ll09y/cow-bfkof/5

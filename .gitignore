@@ -1,6 +1,5 @@
 # 数据集
-datasets/
-test/
-train/
-valid/
-testphotos/
+datasets/test/
+datasets/train/
+datasets/valid/
+datasets/testphotos/

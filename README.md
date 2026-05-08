@@ -1,1 +1,7 @@
-# YOLO 目标检测项目
+# YOLO 目标检测
+## 检测对象
+**奶牛的行为：'drinking', 'eating', 'resting', 'standing', 'walking'**
+## 模型训练32轮后的结果
+-mAP50:0.904
+-mAP50-95:0.785
+
